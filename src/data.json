@@ -1,0 +1,75 @@
+{
+  "members": [
+    {
+      "id": "42ceb0d6-2523-482f-8e9d-ec0d51e3b9ef",
+      "name": "Olle Olsson",
+      "roles": ["ux", "dev frontend"]
+    },
+    {
+      "id": "379443ca-a15b-4ed9-86a7-52efc239c95d",
+      "name": "Nisse Nissesson",
+      "roles": ["dev backend"]
+    },
+    {
+      "id": "c2660ac2-1464-45a4-94b0-7cb46497001a",
+      "name": "Karl Karlsson",
+      "roles": ["dev frontend"]
+    }
+  ],
+  "assignments": [
+    {
+      "id": "b870169f-f9fe-4443-a6be-1ede49cdfcf7",
+      "title": "Fix styling, padding",
+      "description": "The padding is a bit off, implement fix",
+      "category": "dev frontend",
+      "status": "in progress",
+      "assigned": "42ceb0d6-2523-482f-8e9d-ec0d51e3b9ef",
+      "timestamp": "2025-03-09T12:40:04.494Z"
+    },
+    {
+      "id": "7f979034-6f50-4483-9428-081508b7859b",
+      "title": "Fix styling, margin",
+      "description": "The margin is a bit off, implement fix",
+      "category": "dev frontend",
+      "status": "new",
+      "assigned": null,
+      "timestamp": "2025-03-09T12:40:27.484Z"
+    },
+    {
+      "id": "d69e007f-4422-4922-9d58-e7eb2c4813c0",
+      "title": "Optimize API",
+      "description": "The response is a bit slow, investigate cause and implement fix",
+      "category": "dev backend",
+      "status": "in progress",
+      "assigned": "379443ca-a15b-4ed9-86a7-52efc239c95d",
+      "timestamp": "2025-03-09T12:41:55.893Z"
+    },
+    {
+      "id": "2bdbceca-a1f2-4088-accb-1bddd431881d",
+      "title": "Implement new endpoint for creating new roles",
+      "description": "We have a new feature incoming for creating new roles, implement this new feature",
+      "category": "dev backend",
+      "status": "done",
+      "assigned": "379443ca-a15b-4ed9-86a7-52efc239c95d",
+      "timestamp": "2025-03-09T12:43:05.675Z"
+    },
+    {
+      "id": "26997c9c-7518-4051-a609-e7b5155c332c",
+      "title": "Create a logo",
+      "description": "We need a pretty logo for our Scrum tool",
+      "category": "ux",
+      "status": "new",
+      "assigned": null,
+      "timestamp": "2025-03-09T12:43:56.814Z"
+    },
+    {
+      "id": "6e0eb5f4-52db-40c5-a343-6f6db6ba19a2",
+      "title": "Make a pretty button",
+      "description": "We need a new pretty button, use the figma tool",
+      "category": "ux",
+      "status": "new",
+      "assigned": null,
+      "timestamp": "2025-03-09T12:44:35.714Z"
+    }
+  ]
+}
