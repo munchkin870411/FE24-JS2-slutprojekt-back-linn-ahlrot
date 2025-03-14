@@ -21,7 +21,7 @@ A simple RESTful API for managing Scrum boards with team members and assignments
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/munchkin870411/FE24-JS2-slutprojekt-back-linn-ahlrot>
    cd scrum-board-api
    ```
 2. Install dependencies:
